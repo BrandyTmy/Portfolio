@@ -18,7 +18,7 @@ header {
 
 
 
-
+/* Links */
 a{
    
     padding: 10px;
@@ -27,18 +27,20 @@ a{
     text-decoration: underline; color: aqua;
     background-color: black;   
 }
-
+/* Avitatr for Snap Chat */
 section{
     margin-left: 580px;
     margin-top: 10px;
 }
+
+/* About Me */
 .BOX1{
 
     margin: 50px;
 }
 
 
-
+/* All Paragraphs */
 P {
     color:aqua;
     font-family: monospace;
@@ -68,7 +70,7 @@ P {
     
 }
 
-
+/* Work */
 
 .BOX2{
 font-size: 30px;
@@ -83,7 +85,7 @@ margin: 50px;
 
 
 }
-
+/* Place Holder from Web FX */
 #Ph:hover{
    width: 650px;
    height: 450px;
@@ -98,7 +100,7 @@ font-size: 35px;
     
 }
 
-
+/* Contact Me */
 
 .BOX3{
 border-color: aqua;
